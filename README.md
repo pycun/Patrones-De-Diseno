@@ -23,3 +23,5 @@
 11. #### Meetup #11 - Patrones de diseño: Builder.
     
 12. #### Meetup #11 - Patrones de diseño: Visitor.
+
+13. #### Meetup #21 - Patrones de diseño: Flyweight
